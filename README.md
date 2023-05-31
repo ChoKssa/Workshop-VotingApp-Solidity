@@ -1,8 +1,5 @@
 # Voting app on the Ethereum blockchain
-```
-The design steps are intentionally unclear at this time. 
-Additional information such as tips and tricks will be added.
-```
+
 The objective of this workshop is to create a smart contract that will be deployed on the Ethereum blockchain allowing users to vote for one of the available candidates. It will also be possible to vote by proxy, a user will be able to give his agreement to another user to vote for him.
 
 
