@@ -47,7 +47,7 @@ Create a ***structure*** called "Voter" which contains:
 - A variable of type uint256 named "vote" (index of the voted proposal).
 
 Create another ***structure*** called "candidate" which contains:
-- A variable of type string named "name", 
+- A variable of type bytes32 named "name", 
 - A variable of type uint256 named "voteCount".
 
 ## Task 5
