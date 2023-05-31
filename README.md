@@ -12,13 +12,13 @@ The objective of this workshop is to create a smart contract that will be deploy
 Remix is a tool for developing smart contracts, it also allows to compile and deploy them easily and quickly.
 
 Development section <kbd>↓</kbd>  
-![Remix](https://github.com/ChoKssa/workshop-solidity/blob/main/assets/remix_file_explorer.PNG)
+![Remix](https://github.com/ChoKssa/Workshop-VotingApp-Solidity/blob/main/assets/remix_file_explorer.PNG)
 
 Compilation section <kbd>↓</kbd>  
-![Remix](https://github.com/ChoKssa/workshop-solidity/blob/main/assets/remix_compiler.PNG)
+![Remix](https://github.com/ChoKssa/Workshop-VotingApp-Solidity/blob/main/assets/remix_compiler.PNG)
 
 Deployment Section <kbd>↓</kbd>  
-![Remix](https://github.com/ChoKssa/workshop-solidity/blob/main/assets/remix_deploy.PNG)
+![Remix](https://github.com/ChoKssa/Workshop-VotingApp-Solidity/blob/main/assets/remix_deploy.PNG)
 
 
 ## Task 1
