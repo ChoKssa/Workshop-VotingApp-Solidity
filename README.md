@@ -22,13 +22,13 @@ Deployment Section <kbd>↓</kbd>
 
 
 ## Task 1
-In the contracts/ folder, create a "Ballot.sol" file.  
+In the contracts/ folder, create a "Vote.sol" file.  
 Add these lines to the file:  
 ```solidity
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.13;
 ```
-Then create a contract named "Ballot". All the rest of the code will be in this contract.  
+Then create a contract named "Vote". All the rest of the code will be in this contract.  
 
 ## Task 2
 Create a ***public*** variable "organizer" of type ***address***.  
